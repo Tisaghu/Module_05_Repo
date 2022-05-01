@@ -1,6 +1,8 @@
 # Module_05_Repo
 Repository for CS 305 Module 05
 
+Random words by Liam
+=======
 # The Better Calculator
 
 ## Introduction
@@ -20,3 +22,4 @@ Currently in early stages of productions
 
 ## Licensing Information
 The Better Calculator is licensed under Apache-2.0
+
